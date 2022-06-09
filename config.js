@@ -6,7 +6,7 @@ global.prems = [6283167581315]
 //=============『 Info Owner 』============== //
 global.nameowner = 'ALEXTZ STORE'
 global.numberowner = '6283167581315'
-global.instagram = 'https://instagram.com/hyzer_stfu'
+global.instagram = 'https://www.instagram.com/alextz_store'
 global.github = 'https://github.com/Hyzerr'
 global.dana = '083167581315'
 global.pulsa = '083167581315'
@@ -16,7 +16,7 @@ global.gopay = '083167581315'
 global.namebot = 'Chika-bot'
 global.gc = 'https://chat.whatsapp.com/DllEvzkNKQ4714qdwmT9Ds'
 global.web = 'https://hyzerr-apii.herokuapp.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1 bulan = 5.000\n2 Minggu 3.000\n1 Minggu 3.000'
+global.price1 = 'permanen = 10.000\n1 bulan 5.000\n1 Minggu 3.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
